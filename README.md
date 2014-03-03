@@ -10,7 +10,6 @@ compressed bitmaps such as WAH, EWAH or Concise. In some instances, it can
 be hundreds of times faster and it often offers significantly better compression. 
 
 
-
 (c) 2013-2014 Daniel Lemire, Owen Kaser, Samy Chambi
 
 This code is licensed under Apache License, Version 2.0 (ASL2.0). 
